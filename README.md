@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hiruni Anuththara De Silva
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently reading BSc.(Hons) in IT & Management at Faculty of IT University of Moratuwa
+- 🌱 I’m currently reading BSc. (Hons) in IT & Management at Faculty of IT, University of Moratuwa
 - 💞️ I’m looking to collaborate on Software Development Projects
 - 📫 You can reach me via hiruni.18@itfac.mrt.ac.lk
 
